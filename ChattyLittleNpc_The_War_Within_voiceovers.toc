@@ -1,0 +1,11 @@
+## Interface: 110107
+## Title: Chatty Little NPC: The War Withing
+## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
+## Author: Tuubby
+## Version: 1.2.6
+## Dependencies: ChattyLittleNPC
+
+embeds.xml
+
+Main.lua
+VoiceoversList.lua
