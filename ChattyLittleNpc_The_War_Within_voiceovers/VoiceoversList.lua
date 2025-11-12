@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_The_War_Within_voiceovers
-local ChattyLittleNpc_The_War_Within_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_The_War_Within_voiceovers")
+local ChattyLittleNpc_The_War_Within_voiceovers = _G["ChattyLittleNpc_The_War_Within_voiceovers"]
 
 ChattyLittleNpc_The_War_Within_voiceovers.Voiceovers = {
     '11356_Comp.ogg',
