@@ -1,0 +1,8 @@
+package-as: ChattyLittleNpc_The_War_Within_voiceovers
+ignore:
+  - release.py
+  - README.md
+  - .vscode
+  - .github
+  - .venv
+  - .luarc.json
