@@ -1,8 +1,8 @@
-## Interface: 120007, 120005
+## Interface: 121000, 120007
 ## Title: Chatty Little NPC: The War Within
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
-## Version: 3.2.3
+## Version: 3.2.4
 ## Dependencies: ChattyLittleNPC
 
 Main.lua
