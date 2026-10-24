@@ -1,5 +1,5 @@
 ## Interface: 120105, 120100, 120007
-## Title: Chatty Little NPC: The War Within
+## Title: Chatty Little NPC: The War Within voiceovers (enUS)
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
 ## Version: 3.2.6

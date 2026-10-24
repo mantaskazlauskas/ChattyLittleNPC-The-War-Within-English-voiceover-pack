@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_The_War_Within_voiceovers
-local ChattyLittleNpc_The_War_Within_voiceovers = _G["ChattyLittleNpc_The_War_Within_voiceovers"]
+---@class ChattyLittleNpc_The_War_Within_enUS_voiceovers
+local ChattyLittleNpc_The_War_Within_enUS_voiceovers = _G["ChattyLittleNpc_The_War_Within_enUS_voiceovers"]
 
-ChattyLittleNpc_The_War_Within_voiceovers.Voiceovers = {
+ChattyLittleNpc_The_War_Within_enUS_voiceovers.Voiceovers = {
     '11356_Comp.ogg',
     '11356_Desc.ogg',
     '11441_Comp.ogg',
@@ -10310,7 +10310,7 @@ ChattyLittleNpc_The_War_Within_voiceovers.Voiceovers = {
     '94932_Prog.ogg',
 }
 
-ChattyLittleNpc_The_War_Within_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_The_War_Within_enUS_voiceovers.VoiceoverDurations = {
     ["11356_Comp.ogg"] = 9.25,
     ["11356_Desc.ogg"] = 23.32,
     ["11441_Comp.ogg"] = 2.38,
